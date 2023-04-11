@@ -1,0 +1,17 @@
+{
+  "name": "backend-vet",
+  "version": "0.0.1",
+  "description": "backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "fabianjff97@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
